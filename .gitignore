@@ -1,0 +1,6 @@
+node_modules
+dist
+.env.local
+.firebase
+flutter_apps/**/build
+flutter_apps/**/.dart_tool
